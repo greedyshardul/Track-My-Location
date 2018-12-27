@@ -12,12 +12,12 @@ android {
     }
     buildTypes {
         debug {
-            resValue 'string', 'google_maps_api_key', TrackMyLocation_GoogleMapsAPIKey
+            resValue 'string', 'google_maps_api_key', 'AIzaSyB_yofoAtpLQnxXgYYP0-c7IzYPqBH_pDY'
         }
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
-            resValue 'string', 'google_maps_api_key', TrackMyLocation_GoogleMapsAPIKey
+            resValue 'string', 'google_maps_api_key', 'AIzaSyB_yofoAtpLQnxXgYYP0-c7IzYPqBH_pDY'
         }
     }
     compileOptions {

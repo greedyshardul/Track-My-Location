@@ -1,35 +1,35 @@
 {
   "project_info": {
-    "project_number": "1045868149854",
-    "firebase_url": "https://track-my-location-6d39f.firebaseio.com",
-    "project_id": "track-my-location-6d39f",
-    "storage_bucket": "track-my-location-6d39f.appspot.com"
+    "project_number": "807902002964",
+    "firebase_url": "https://blindproject-2fe16.firebaseio.com",
+    "project_id": "blindproject-2fe16",
+    "storage_bucket": "blindproject-2fe16.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1045868149854:android:41656a612353c689",
+        "mobilesdk_app_id": "1:807902002964:android:beee9bd00fa05823",
         "android_client_info": {
-          "package_name": "com.github.abdularis.trackmylocation"
+          "package_name": "com.com.blindproj"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1045868149854-n59pd4984p4lf7c0skik9j87kk3pn999.apps.googleusercontent.com",
+          "client_id": "807902002964-6uscmpcpv9dr910em6ohl7spuui1o3he.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.github.abdularis.trackmylocation",
-            "certificate_hash": "ca7a81d67dce2743e9bff704af2f2460912b9019"
+            "package_name": "com.com.blindproj",
+            "certificate_hash": "5485ec201bd42f13e5ac338a9044566c1e79fb11"
           }
         },
         {
-          "client_id": "1045868149854-7hhrrq16fsbm22d961m9r5apr268676g.apps.googleusercontent.com",
+          "client_id": "807902002964-9n7ta8vure352dk9o2tpivbnft8d8sht.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCtr1afx2l0kHJ1gH6gLU86-4sgz6_WsyU"
+          "current_key": "AIzaSyAbCEQU_FlgGlk62xUaHP7QLwRRmXcBEGY"
         }
       ],
       "services": {
@@ -40,7 +40,95 @@
           "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "1045868149854-7hhrrq16fsbm22d961m9r5apr268676g.apps.googleusercontent.com",
+              "client_id": "807902002964-9n7ta8vure352dk9o2tpivbnft8d8sht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807902002964:android:41656a612353c689",
+        "android_client_info": {
+          "package_name": "com.github.abdularis.trackmylocation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807902002964-ap6vesm4t7gi74aj633iv10qkh27apne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.abdularis.trackmylocation",
+            "certificate_hash": "5485ec201bd42f13e5ac338a9044566c1e79fb11"
+          }
+        },
+        {
+          "client_id": "807902002964-9n7ta8vure352dk9o2tpivbnft8d8sht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbCEQU_FlgGlk62xUaHP7QLwRRmXcBEGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807902002964-9n7ta8vure352dk9o2tpivbnft8d8sht.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807902002964:android:ee0b0cba5a84ffe2",
+        "android_client_info": {
+          "package_name": "com.indooratlas.android.sdk.examples"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807902002964-1ntmp0k499pdh6k1fvp6qc37rl155bh6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.indooratlas.android.sdk.examples",
+            "certificate_hash": "5485ec201bd42f13e5ac338a9044566c1e79fb11"
+          }
+        },
+        {
+          "client_id": "807902002964-9n7ta8vure352dk9o2tpivbnft8d8sht.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbCEQU_FlgGlk62xUaHP7QLwRRmXcBEGY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807902002964-9n7ta8vure352dk9o2tpivbnft8d8sht.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
